@@ -4,6 +4,11 @@ Welcome to the **Credit Risk Modeling Project** for Lauki Finance! This reposito
 
 [Live Application on Streamlit](https://kajal-credit-risk-model-ml-project2.streamlit.app)
 
+## Screenshot 
+
+![Screenshot (1)](https://github.com/user-attachments/assets/14ad29e8-0df8-430f-ace0-8d1fac33ea8d)
+
+
 ## Project Overview
 
 Credit risk modeling is an essential component of financial institutions. This project aims to predict the likelihood of a borrower defaulting on their loan using advanced machine learning techniques. The model is designed to assist Lauki Finance in making data-driven lending decisions and mitigating financial risks.
@@ -81,7 +86,7 @@ We welcome feedback and contributions to improve this project. Feel free to rais
 
 **Author**: Kajal Bharti  
 **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/kajal-bharti-973a24287/)  
-**GitHub**: [Your GitHub Profile](https://github.com/kajalb24/)
+**GitHub**: [GitHub Profile](https://github.com/kajalb24/)
 
 ---
 
